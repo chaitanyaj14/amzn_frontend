@@ -1,1 +1,1 @@
-# amzn_frontend
+# Amazon Frontend
